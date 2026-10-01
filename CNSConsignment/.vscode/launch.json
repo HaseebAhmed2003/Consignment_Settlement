@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Local BC280",
+      "type": "al",
+      "request": "launch",
+      "server": "http://localhost",
+      "serverInstance": "BC280",
+      "port": 7049,
+      "authentication": "Windows",
+      "startupObjectType": "Page",
+      "startupObjectId": 50201,
+      "schemaUpdateMode": "ForceSync",
+      "dependencyPublishingOption": "Default",
+      "breakOnError": "All",
+      "launchBrowser": true
+    }
+  ]
+}

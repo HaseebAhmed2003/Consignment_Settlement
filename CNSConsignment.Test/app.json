@@ -1,0 +1,63 @@
+{
+  "id": "43746ea3-2f8f-4c74-bcc7-485e4edc4404",
+  "name": "CNS Consignment Settlement Tests",
+  "publisher": "Mohammed Haseeb Ahmed",
+  "version": "1.0.0.0",
+  "brief": "Automated tests for the CNS Consignment Settlement extension.",
+  "description": "Test codeunits covering commission tiers, agreement validation, settlement calculation, workflow, posting, permissions and the monthly job.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "31905050-21c6-4931-ba5a-662f091f7d39",
+      "name": "CNS Consignment Settlement",
+      "publisher": "Mohammed Haseeb Ahmed",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "d852d5d2-a39d-4179-baeb-f99a19e32510",
+      "name": "Application Test Library",
+      "publisher": "Microsoft",
+      "version": "28.0.0.0"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert",
+      "publisher": "Microsoft",
+      "version": "28.0.0.0"
+    },
+    {
+      "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
+      "name": "Any",
+      "publisher": "Microsoft",
+      "version": "28.0.0.0"
+    },
+    {
+      "id": "40860557-a18d-42ad-aecb-22b7dd80dc80",
+      "name": "Permissions Mock",
+      "publisher": "Microsoft",
+      "version": "28.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "28.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50300,
+      "to": 50349
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "31905050-21c6-4931-ba5a-662f091f7d39",
+  "name": "CNS Consignment Settlement",
+  "publisher": "Mohammed Haseeb Ahmed",
+  "version": "1.0.0.0",
+  "brief": "Monthly consignment settlements per brand with tiered commission, approval and payout posting.",
+  "description": "Demo extension: consignment agreements with tiered commission, monthly settlements from posted sales value entries, clerk/approver separation, payout purchase invoices and a Word settlement statement.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "28.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50299
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
